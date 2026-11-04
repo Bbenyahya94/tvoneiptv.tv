@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tvoneiptv.tv/sitemap.xml

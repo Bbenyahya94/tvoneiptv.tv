@@ -1,0 +1,1 @@
+.split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:42px;align-items:start}.split h2{font-size:clamp(2rem,4vw,3.5rem);line-height:1.08;margin:12px 0}.split .grid{grid-template-columns:1fr}@media(max-width:800px){.split{grid-template-columns:1fr}}

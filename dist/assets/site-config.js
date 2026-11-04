@@ -1,0 +1,1 @@
+window.TIVIONE_CONFIG={brand:'Tivione IPTV',contact:{whatsapp:'212670779271',telegram:'premiumiptvpanelscom',email:'support@reselleriptv.com'},urls:{whatsapp:'https://wa.me/212670779271',telegram:'https://t.me/premiumiptvpanelscom'}};
